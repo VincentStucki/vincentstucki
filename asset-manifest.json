@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vincentstucki/static/css/main.0b180854.css",
+    "main.js": "/vincentstucki/static/js/main.67eda0c9.js",
+    "static/js/453.2889c84b.chunk.js": "/vincentstucki/static/js/453.2889c84b.chunk.js",
+    "index.html": "/vincentstucki/index.html",
+    "main.0b180854.css.map": "/vincentstucki/static/css/main.0b180854.css.map",
+    "main.67eda0c9.js.map": "/vincentstucki/static/js/main.67eda0c9.js.map",
+    "453.2889c84b.chunk.js.map": "/vincentstucki/static/js/453.2889c84b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b180854.css",
+    "static/js/main.67eda0c9.js"
+  ]
+}
